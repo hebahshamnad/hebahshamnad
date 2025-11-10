@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**hebahshamnad/hebahshamnad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hebah 👋
+<img align="right" src="kitty.gif" width="250" height="280" />
 
-Here are some ideas to get you started:
+Cloud enthusiast, full-stack tinkerer, and Generative AI explorer ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About Me:
+🎓 Fourth-year Computer Science student at **McMaster University**  
+💼 Former **Solutions Architect Intern @ AWS**  
+🤖 Lifelong learner passionate about Generative AI  
+
+#### Currently Working On:
+- Building **cloud-native full-stack applications**  
+- Exploring **AI-powered solutions** and **automation pipelines**
+
