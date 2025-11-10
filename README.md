@@ -1,15 +1,20 @@
 
-# Hi there, I'm Hebah 👋
+<h1 style="font-size: 2.5em;">Hi there, I'm Hebah 👋</h1>
 <img align="right" src="kitty.gif" width="300" height="320" />
 
+<p style="font-size: 1.2em;">
 Cloud enthusiast, full-stack tinkerer, and Generative AI explorer ☁️
+</p>
 
-#### About Me:
-🎓 Fourth-year Computer Science student at **McMaster University**  
-💼 Former **Solutions Architect Intern @ AWS**  
-🤖 Lifelong learner passionate about Generative AI  
+<h3 style="font-size: 1.5em;">About Me:</h3>
+<p style="font-size: 1.2em;">
+🎓 Fourth-year Computer Science student at <b>McMaster University</b><br>
+💼 Former <b>Solutions Architect Intern @ AWS</b><br>
+🤖 Lifelong learner passionate about Generative AI
+</p>
 
-#### Currently Working On:
-- Building **cloud-native full-stack applications**  
-- Exploring **AI-powered solutions** and **automation pipelines**
-
+<h3 style="font-size: 1.5em;">Currently Working On:</h3>
+<p style="font-size: 1.2em;">
+- Building <b>cloud-native full-stack applications</b><br>
+- Exploring <b>AI-powered solutions</b> and <b>automation pipelines</b>
+</p>
