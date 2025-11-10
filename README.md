@@ -1,6 +1,6 @@
 
 <h1 style="font-size: 2.5em;">Hi there, I'm Hebah 👋</h1>
-<img align="right" src="kitty.gif" width="300" height="320" />
+<img align="right" src="kitty.gif" width="250" height="280" />
 
 <p style="font-size: 1.2em;">
 Cloud enthusiast, full-stack tinkerer, and Generative AI explorer ☁️
