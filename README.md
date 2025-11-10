@@ -1,6 +1,6 @@
 
 # Hi there, I'm Hebah 👋
-<img align="right" src="kitty.gif" width="250" height="280" />
+<img align="right" src="kitty.gif" width="300" height="320" />
 
 Cloud enthusiast, full-stack tinkerer, and Generative AI explorer ☁️
 
