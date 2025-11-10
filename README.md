@@ -10,7 +10,8 @@ Cloud enthusiast, full-stack tinkerer, and Generative AI explorer ☁️
 <p style="font-size: 1.2em;">
 🎓 Fourth-year Computer Science student at <b>McMaster University</b><br>
 💼 Former <b>Solutions Architect Intern @ AWS</b><br>
-🤖 Lifelong learner passionate about Generative AI
+🤖 Lifelong learner passionate about AI, cloud, and building cool things
+
 </p>
 
 <h3 style="font-size: 1.5em;">Currently Working On:</h3>
