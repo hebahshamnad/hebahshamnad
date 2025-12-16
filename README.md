@@ -3,7 +3,7 @@
 <img align="right" src="kitty.gif" width="250" height="280" />
 
 <p style="font-size: 1.2em;">
-Cloud enthusiast, full-stack tinkerer, and Generative AI explorer ☁️
+Cloud enthusiast, full-stack tinkerer, and AI automation explorer ☁️
 </p>
 
 <h3 style="font-size: 1.5em;">About Me:</h3>
